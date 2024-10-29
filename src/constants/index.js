@@ -8,12 +8,8 @@ import {
   nodejs,
   mongodb,
   git,
-  meta,
   spi,
-  carrent,
   dl,
-  jobit,
-  tripguide,
 } from "../assets";
 
 export const navLinks = [
@@ -40,14 +36,6 @@ const services = [
     title: "React Developer",
     icon: mobile,
   },
-  // {
-  //   title: "Backend Developer",
-  //   icon: backend,
-  // },
-  // {
-  //   title: "Content Creator",
-  //   icon: creator,
-  // },
 ];
 
 const technologies = [
@@ -142,7 +130,6 @@ const projects = [
     ],
     image: dl,
     source_code_link: "https://github.com/",
-    // demo_link: "http://www.demo.com",
   },
 ];
 
